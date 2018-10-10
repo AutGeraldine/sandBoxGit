@@ -17,14 +17,12 @@ Pomiii est arrivé
 et david est arrivéééé éé
 
 david s est là!
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-Cédric aussi.. :)..
-=======
 Julien est là
 =======
->>>>>>> f45884d858d724ed68eaf7cdab7837726aaf3963
+geraldine aussi :)
  laurent
->>>>>>> a8ad6cc5db5bf276a9b8eec83df7b23fc0873d5e
+<<<<<<< HEAD
+>>>>>>> 13bdd728337dde30bfbfa8e2b3aa1297326f5e34
+=======
 >>>>>>> fccc63f3166670c6b809df4c829c538d9243ea71
+>>>>>>> 2d66a1924e589cb715030f3efb8b23afe4d56204
