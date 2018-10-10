@@ -31,6 +31,11 @@ geraldine aussi :)
  laurent
 >>>>>>> 2d66a1924e589cb715030f3efb8b23afe4d56204
 >>>>>>> 35e9e1cd7ecc6c3e82992936eef230ef56b5f2b2
+<<<<<<< HEAD
 =========
 
 Vincent.Co In Da Place !
+=======
+
+Nico galère mais est présent
+>>>>>>> 57a12572e6cbc0497625b4059bca708300b217ed
