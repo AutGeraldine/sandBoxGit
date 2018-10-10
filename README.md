@@ -3,7 +3,7 @@ un projet pour faire ses armes avec git
 
 Josselin est dans la place
 
-Matthieu est ici aussi :)
+Matthieu est ici aussi :) Bah dis donc quel bordel !
 
 <<<<<<< HEAD
 <<<<<<< HEAD
