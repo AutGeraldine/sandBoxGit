@@ -1,0 +1,12 @@
+git cmd
+mkdir premierRepo
+git init
+git clone https://github.com/jtobelem-simplon/sand
+git config --global user.email "laurent.picard@gmail.com"
+
+git pull 
+(modif)
+git commit -a //+ commantaires
+git pull
+git push
+
