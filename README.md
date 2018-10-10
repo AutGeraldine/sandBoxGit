@@ -5,5 +5,6 @@ Josselin est dans la place
 
 Pomiii est arrivé
 
-
 david s est là!
+
+christine est là
