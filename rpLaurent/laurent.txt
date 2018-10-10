@@ -10,3 +10,5 @@ git commit -a //+ commantaires
 git pull
 git push
 
+Pas con !
+
