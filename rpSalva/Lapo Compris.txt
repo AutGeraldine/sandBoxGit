@@ -1,1 +1,2 @@
 git -t-shirt à la place du git -pull, ça marche, si on a trop chaud ?
+voire git -torse-nu en cas de canicule ?
