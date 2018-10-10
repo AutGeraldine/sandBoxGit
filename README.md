@@ -12,7 +12,7 @@ Matthieu est ici aussi :)
 
 david s est là!
 >>>>>>> 3fd470b20cdee9c12879ffaf0b3d10d03f34455f
-=======
+
 Pomiii est arrivé
 et david est arrivéééé éé
 
