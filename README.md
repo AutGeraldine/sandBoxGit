@@ -1,6 +1,9 @@
 # sandBoxGit
 un projet pour faire ses armes avec git
 
+<<<<<<< HEAD
+Josselin est dans la place!!!
+=======
 Josselin est dans la place
 
 Pomiii est arrivé
