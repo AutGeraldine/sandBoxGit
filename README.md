@@ -16,7 +16,7 @@ david s est là!
 Pomiii est arrivé
 et david est arrivéééé éé
 
-david s est là!
+<g>david s est là!</g>
 Julien est là
 =======
 geraldine aussi :)
