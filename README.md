@@ -6,6 +6,9 @@ Josselin est dans la place!!!
 =======
 Josselin est dans la place
 
+<<<<<<< HEAD
+Pomiii est arrivé
+=======
 Matthieu est ici aussi :)
 
 david s est là!
